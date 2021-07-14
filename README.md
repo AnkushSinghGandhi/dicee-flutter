@@ -27,8 +27,32 @@
 </p>
 
 
-## The sharing of the PPT and Project Report costs ₹1000 ($14)
-If interested :email: ankushsinghgandhi@gmail.com
+
+# Dicee 🎲
+
+## Our Goal
+
+The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+
+
+## What you will create
+
+We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
+## What we learned
+
+- How to use Flutter stateless widgets to design the user interface.
+- How to use Flutter stateful widgets to update the user interface.
+- How to change the properties of various widgets.
+- How to use onPressed listeners to detect when buttons are pressed.
+- How to use setState to mark the widget tree as dirty and requiring update on the next render.
+- How to use Expanded to make widgets adapt to screen dimensions.
+- Understand and use string interpolation.
+- Learn about basic dart programming concepts such as data types and functions.
+- Code and use gesture controls.
+
 
 ## :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
